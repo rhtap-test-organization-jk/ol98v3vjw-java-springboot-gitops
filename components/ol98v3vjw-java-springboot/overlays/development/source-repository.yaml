@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ol98v3vjw-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ol98v3vjw-java-springboot
